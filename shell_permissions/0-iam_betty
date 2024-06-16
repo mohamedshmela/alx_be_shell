@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'su -b' > switch_to_betty.sh
